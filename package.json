@@ -1,0 +1,18 @@
+{
+  "name": "desafio-arq-servidor",
+  "version": "1.0.0",
+  "description": "desafio para Curso de Backend de Coderhouse - arquitectura de servidor",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Carlos Matias Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "minimist": "^1.2.6",
+    "mongoose": "^6.3.0",
+    "winston": "^3.7.2"
+  }
+}
